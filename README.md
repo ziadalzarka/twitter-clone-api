@@ -1,6 +1,6 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e79ea3025bc44d2393303a0ef21ea553)](https://www.codacy.com/manual/zizohotot/twitter-clone-api?utm_source=github.com&utm_medium=referral&utm_content=ziadalzarka/twitter-clone-api&utm_campaign=Badge_Grade)
-
 # Twitter Clone API
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e79ea3025bc44d2393303a0ef21ea553)](https://www.codacy.com/manual/zizohotot/twitter-clone-api?utm_source=github.com&utm_medium=referral&utm_content=ziadalzarka/twitter-clone-api&utm_campaign=Badge_Grade)
 
 ## Description
 
